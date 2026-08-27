@@ -3,4 +3,7 @@
 This repo is meant to gather **-deep dive-** info about frontend core concepts, starting from HTML to CSS and JS, then **frameworks** and libraries. It would be handy for interview revision and overall revision.
 
 ### Thinking Methodology
-discusse the planning and design work you have to do for your website before writing code, including
+You should discuss the planning and design work you have to do for your website before writing code, including:
+1. **What is your website about?** 
+2. **What information are you presenting on the subject?**
+3. **What does your website look like,** in simple high-level terms? What's the background color? What kind of font is appropriate: formal, cartoony, bold and loud, subtle?
