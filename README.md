@@ -16,3 +16,4 @@ HTML is a _markup language_ consisting of a series of **[elements](https://de
 *  the `alt` attribute in `img` tag is to specify descriptive text for users who cannot see the image, possibly because of the following reasons:
 	1. They are visually impaired. Users with significant visual impairments often use tools called screen readers to read out the alt text to them.
 	2. Something has gone wrong, causing the image not to display.
+* elmennt with no 
