@@ -7,3 +7,5 @@ You should discuss the planning and design work you have to do for your website 
 1. **What is your website about?** 
 2. **What information are you presenting on the subject?**
 3. **What does your website look like?
+
+##### HTML (**H**yper**T**ext **M**arkup **L**anguage) is the code that is used to structure a web page and its content.
