@@ -13,3 +13,8 @@ HTML is a _markup language_ consisting of a series of **[elements](https://de
 
 * `<html></html>`: The [`<html>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/html) element wraps all the content on the entire page and is sometimes known as the **root element**. It also includes the `lang` [attribute](https://developer.mozilla.org/en-US/docs/Glossary/Attribute), which sets the primary language of the document.
 * `<head></head>`: The [`<head>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/head) element acts as a container for all the stuff you want to include on the HTML page that _isn't_ the content you are showing to your page's viewers.
+*  In the [`alt` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#authoring_meaningful_alternate_descriptions), you specify descriptive text for users who cannot see the image, possibly because of the following reasons:
+
+1. They are visually impaired. Users with significant visual impairments often use tools called screen readers to read out the alt text to them.
+    
+2. Something has gone wrong, causing the image not to display.
