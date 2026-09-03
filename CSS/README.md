@@ -1,6 +1,8 @@
 # What is CSS?
 **Cascading Style Sheets** (**CSS**) is a [stylesheet](https://developer.mozilla.org/en-US/docs/Web/API/StyleSheet) language used to describe the presentation of a document written in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) or [XML](https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction) (including XML dialects such as [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML) or [XHTML](https://developer.mozilla.org/en-US/docs/Glossary/XHTML)). ***CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.***
 
+Like HTML, CSS is not a programming language. It's not a markup language either. **CSS is a style sheet language.** CSS is used to style HTML elements
+
 # Why do we need CSS? 
 Without it, ***HTML would only handle structure/content*** — no way to control layout, colors, fonts, spacing, or responsiveness. ***CSS separates presentation from content***, so you can restyle a whole site without touching the HTML.
 

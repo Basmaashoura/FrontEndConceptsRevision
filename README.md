@@ -17,4 +17,3 @@ HTML is a _markup language_ consisting of a series of **[elements](https://de
 	1. They are visually impaired. Users with significant visual impairments often use tools called screen readers to read out the alt text to them.
 	2. Something has gone wrong, causing the image not to display.
 * elements with no closing tag are called **empty/void elements.**
-* 
