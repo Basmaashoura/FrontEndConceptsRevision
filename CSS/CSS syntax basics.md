@@ -15,3 +15,7 @@ p {
 * **border:** The solid line just outside the padding.
 * **margin:** The space outside the border.
 
+
+***The `<body>` element is a block element, meaning it takes up space on the page and can accept margin, padding, and other box properties.***
+
+ `<img>` (image) elements, on the other hand, are **inline** elements: by default, they don't accept margin values in the same way block elements do. For the auto-margin trick to work on this image, we must give it block-level behavior by using `display: block;`.
