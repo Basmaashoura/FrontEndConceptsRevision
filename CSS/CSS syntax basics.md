@@ -21,4 +21,4 @@ p {
  ***`<img>` (image) elements, on the other hand, are inline elements: by default, they don't accept margin values in the same way block elements do. For the auto-margin trick to work on this image, we must give it block-level behavior by using `display: block;`.***
 
 
-* engon not good?
+* why engon not good?
