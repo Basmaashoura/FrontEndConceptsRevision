@@ -17,3 +17,19 @@ HTML is a _markup language_ consisting of a series of **[elements](https://de
 	1. They are visually impaired. Users with significant visual impairments often use tools called screen readers to read out the alt text to them.
 	2. Something has gone wrong, causing the image not to display.
 * elements with no closing tag are called **empty/void elements.**
+
+###### JavaScript
+* JavaScript is a programming language that adds interactivity to websites.
+* is a full-fledged programming language — it contains all the classic programming features in other programming languages such as **variables**, **loops**, and **functions**.
+* JavaScript, when used on web pages (though it can also be used in other places), generally works by:
+	* **Getting references to one or more values** such as numbers or to elements on the page.
+		- **Doing something with those values**, such as adding the numbers together.
+		- **Returning a result that can be used to do something else later on**. For example, you might want to display the sum of those numbers on the page.
+-  **HTML DOM API** is made up of the interfaces that define the functionality of each of the elements in HTML, functional areas included in the HTML DOM API include:
+	- Access to and control of HTML elements via the DOM.
+	- Access to and manipulation of form data.
+	- Interacting with the contents of 2D images and the context of an HTML <canvas>, for example to draw on top of them.
+	- Management of media connected to the HTML media elements (<audio> and <video>).
+	- Dragging and dropping of content on webpages.
+	- Access to the browser navigation history
+	- Supporting and connective interfaces for other APIs such as Web Components, Web Storage, Web Workers, WebSocket, and Server-sent events.
