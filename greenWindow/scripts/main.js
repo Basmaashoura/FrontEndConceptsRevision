@@ -19,12 +19,16 @@ myImage.addEventListener("click", () => {
 });
 
 let myButton = document.querySelector("button");
-let myHeading = document.querySelector("h1");
+// let myHeading = document.querySelector("h1");
 
 function setUsername() {
   const myName = prompt("Please enter your name.");
-  localStorage.setItem("name", myName);
-  myHeading.textContent = `Mozilla is cool, ${myName}`;
+  if (!myName) {
+    setUserName();
+  } else {
+    localStorage.setItem("name", myName);
+    myHeading.textContent = `Mozilla is cool, ${myName}`;
+  }
 }
 
 if (!localStorage.getItem("name")) setUsername();
@@ -34,5 +38,5 @@ else {
 }
 
 myButton.addEventListener("click", () => {
-  setUserName();
+  setUsername();
 });
