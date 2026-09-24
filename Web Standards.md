@@ -28,6 +28,7 @@
 4. The browser assembles the small chunks into a complete web page and displays it to you.
 
 ## The web standards model
+* 
 
 
 ## How browsers load websites
